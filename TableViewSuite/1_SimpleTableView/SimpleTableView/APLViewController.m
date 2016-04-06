@@ -59,6 +59,7 @@
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
 	// Return the number of time zone names.
 	return [self.timeZoneNames count];
+    
 }
 
 
